@@ -1,10 +1,10 @@
 {
   "_comment": "Order matters — index in this array is the YOLO class_id used in your label .txt files. Each 'name' must exactly match the subdirectory name used inside training/, test/, and predictions/.",
   "classes": [
-    { "id": 0, "name": "cargo",     "label": "CARGO VESSEL",     "color": "#00ff9c" },
-    { "id": 1, "name": "tanker",    "label": "TANKER",           "color": "#ffb000" },
-    { "id": 2, "name": "fishing",   "label": "FISHING VESSEL",   "color": "#00d9ff" },
-    { "id": 3, "name": "passenger", "label": "PASSENGER VESSEL", "color": "#ff2e63" },
-    { "id": 4, "name": "other",     "label": "UNCLASSIFIED",     "color": "#a6a6a6" }
+    { "id": 0, "name": "Chery_Arrizo 5",     "label": "Chery_Arrizo 5",     "color": "#00ff9c" },
+    { "id": 1, "name": "Dongfeng_Duolika",    "label": "Dongfeng_Duolika",           "color": "#ffb000" },
+    { "id": 2, "name": "Jeep_Patriot",   "label": "Jeep_Patriot",   "color": "#00d9ff" },
+    { "id": 3, "name": "SHACMAN_DeLong_M3000", "label": "SHACMAN_DeLong_M3000", "color": "#ff2e63" },
+    { "id": 4, "name": "Yutong_ZK6120HY1",     "label": "Yutong_ZK6120HY1",     "color": "#a6a6a6" }
   ]
 }
